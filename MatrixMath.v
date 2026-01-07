@@ -7,7 +7,7 @@
 /**                                                                         **/
 /** Project: For Tiny Tapout shake out                                      **/
 /**                                                                         **/
-/** Produced by: James Buchanan                                             **/
+/** Produced by:                                            **/
 /**                                                                         **/
 /** Date of creation: 12/04/2025                                            **/
 /**                                                                         **/
